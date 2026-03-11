@@ -129,15 +129,6 @@ I enjoy combining **AI + cybersecurity + creativity** to build impactful tech so
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hap4114&theme=rose_pine"/>
 </p>
 
----
-
-# 🐍 GitHub Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/hap4114/hap4114/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
 
 # 🌷 Connect With Me
 
